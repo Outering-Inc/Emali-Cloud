@@ -10,7 +10,7 @@ const Intergration = () => (
         </h1>
         <div className="w-full md:mt-0 mt-6">
           <p className={`${styles.paragraph}`}>
-          Elloe works natively with your favorite systems, CRM, marketing platforms, order management software, and more—all without a single line of code.
+          Emali Cloud works natively with your favorite systems, CRM, marketing platforms, order management software, and more—all without a single line of code.
           </p>
         </div>
         
