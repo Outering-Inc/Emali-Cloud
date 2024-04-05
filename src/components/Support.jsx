@@ -8,7 +8,7 @@ const Support = () =>  (
       <div className="absolute z-[0] w-[100%] h-[40%] -right-[50%] roundend-full blue__gradient"/>
       <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative-[1]">
         <h1 className={`${styles.heading1} text-left max-w-[1000px]`}>
-            Experience the Future of Customer Engagement with Elloe AI.
+            Experience the Future of Cloud Computing with Emali.
         </h1>
       </div>
       <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">

@@ -101,7 +101,7 @@ export const links = [
     ],
   }, 
   {
-    Head:"Elloe",
+    Head:"Emali",
     sublink:[
       {component:MegaDeal,name1:"Conversation Service Cloud",subname1:"Automate % Personalize Customer Support",link:"/"},
       {component:MegaBanner,name2:"Conversation Service Cloud",subname2:"Automate % Personalize Customer Support",link:"/"},
@@ -123,14 +123,14 @@ export const links = [
     ],
   },  
   {
-    Head:"Elloe",
+    Head:"Emali",
     sublink:[
       {component:MegaDeal,name1:"Conversation Service Cloud",subname1:"Automate % Personalize Customer Support",link:"/"},
       {component:MegaBanner,name2:"Conversation Service Cloud",subname2:"Automate % Personalize Customer Support",link:"/"},
     ],
   },
   {
-    Head:"Elloe",
+    Head:"Emali",
     sublink:[
       {component:MegaDeal,name1:"Conversation Service Cloud",subname1:"Automate % Personalize Customer Support",link:"/"},
       {component:MegaBanner,name2:"Conversation Service Cloud",subname2:"Automate % Personalize Customer Support",link:"/"},
@@ -144,9 +144,9 @@ export const links = [
   {
     Head:"Our Root",
     sublink:[
-      {icon:BiSolidMap,name:"About Us",subname:"The people behind Elloe.AI and the story of shared success.",link:"/"},
-      {icon:GoRocket,name:"Career",subname:"Come and build with us to shape the future of Conversation + Genarative AI.",link:"/career/"},
-      {icon:BiUserPlus,name:"Our Partner",subname:"Collaborate with Elloe.AI and drive mutual growth.",link:"/"},
+      {icon:BiSolidMap,name:"About Us",subname:"The people behind Emali Cloud and the story of shared success.",link:"/"},
+      {icon:GoRocket,name:"Career",subname:"Come and build with us to shape the future of Cloud Computing + Genarative AI.",link:"/career/"},
+      {icon:BiUserPlus,name:"Our Partner",subname:"Collaborate with Emali Cloud and drive mutual growth.",link:"/"},
       {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
     ],
@@ -199,8 +199,8 @@ export const jobData =[
     image:people01,
     title:"Web Developer",
     time:"Now",
-    location:"Elloe.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: "At Emali, we prioritize fostering a culture where every interaction begins with a smile, where connections are meaningful and genuine, and where we collectively build a community that embraces diversity and fosters a sense of belonging for all.",
     company:"Emali Inc"
   },
   {
@@ -208,8 +208,8 @@ export const jobData =[
     image:people02,
     title:"Cloud Engineer",
     time:"14 Hrs",
-    location:"Elloe.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: "At Emali, we prioritize fostering a culture where every interaction begins with a smile, where connections are meaningful and genuine, and where we collectively build a community that embraces diversity and fosters a sense of belonging for all.",
     company:"Emali Inc"
   },
   {
@@ -217,8 +217,8 @@ export const jobData =[
     image:hipaa,
     title:"Software Engineer",
     time:"2 Days",
-    location:"Emali.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: "At Emali, we prioritize fostering a culture where every interaction begins with a smile, where connections are meaningful and genuine, and where we collectively build a community that embraces diversity and fosters a sense of belonging for all.",
     company:"Emali Inc"
   },
   {
@@ -226,8 +226,8 @@ export const jobData =[
     image:people03,
     title:"Solution Architecture",
     time:"Now",
-    location:"Elloe.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: "At Emali, we prioritize fostering a culture where every interaction begins with a smile, where connections are meaningful and genuine, and where we collectively build a community that embraces diversity and fosters a sense of belonging for all.",
     company:"Emali Inc"
   },
   {
@@ -472,11 +472,11 @@ export const footerLinks = [
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://www.emali.co.ke/explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://www.emali.co.ke/terms-and-services/",
       },
     ],
   },
@@ -485,23 +485,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://www.emali.co.ke/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://www.emali.co.ke/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://www.emali.co.ke/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://www.emali.co.ke/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://www.emali.co.ke/newsletters/",
       },
     ],
   },
@@ -510,15 +510,15 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://www.emali.co.ke/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://www.emali.co.ke/become-a-partner/",
       },
       {
         name: "KnowledgeBase",
-        link: "https://www.elloe.ai/knowledge-base-center/",
+        link: "https://www.emali.co.ke/knowledge-base-center/",
       },
     ],
   },
