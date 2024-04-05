@@ -235,8 +235,8 @@ export const jobData =[
     image:people01,
     title:"UI/UX Designer",
     time:"Now",
-    location:"Elloe.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: 'Here at Emali, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
     company:"Emali Inc"
   },
   {
@@ -244,8 +244,8 @@ export const jobData =[
     image:people03,
     title:"Data Scientist",
     time:"Now",
-    location:"Elloe.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: 'Here at Emali, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
     company:"Emali Inc"
   },
   {
@@ -253,8 +253,8 @@ export const jobData =[
     image:people02,
     title:"Web Developer",
     time:"Now",
-    location:"Elloe.AI HQ",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    location:"Emali HQ",
+    description: 'Here at Emali, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
     company:"Emali Inc"
   },
   {
@@ -263,7 +263,7 @@ export const jobData =[
     title:"Cloud Support",
     time:"7 Hrs",
     location:"Mombasa",
-    description: 'Here at Elloe, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
+    description: 'Here at Emali, we’re fostering a people-first and inclusive culture, where people from all walks of life have a sense of friendship and belonging.',
     company:"FoodPlus"
   }
   
@@ -560,7 +560,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/company/elloeai/",
+    link: "https://www.linkedin.com/company/emalicloud/",
   },
 ];
 
