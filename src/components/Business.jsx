@@ -26,7 +26,7 @@ const Business = () =>  (
           Automatically resolve 80% of <br className="sm:block hidden"/> your customer inquiries.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-3`}>
-          Elloe’s conversational AI proactively engages with customers based on who they are,
+          Emali’s conversational AI proactively engages with customers based on who they are,
           where they are, and what they are trying to do—all before involving an agent. 
           Coupled with a robust set of conversational AI insight tools—including NLP training and labeling—you’ll find Elloe conversations get smarter all the time. 
           More importantly, they drive resolution rates up to an average of 80%, and cost per interaction down.

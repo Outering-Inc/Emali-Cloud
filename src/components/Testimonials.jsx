@@ -16,7 +16,7 @@ const Testimonials = () =>  (
         </div>
         <div className="w-full md:mt-0 mt-6">
           <p className={`${styles.paragraph}`}>
-            Everything you need to adapt Conversation AI and grow your business
+            Everything you need to adapt Cloud Computing and grow your business
             anywhere on the planet by seamless intergration.
           </p>
         </div>

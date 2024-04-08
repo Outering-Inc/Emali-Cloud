@@ -12,7 +12,7 @@ const CardDeal = () => (
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-3`}>
           Bid goodbye to compiling actionable data manually.
-          Elloe’s unified, secure dashboard’s got you covered. 
+          Emali’s unified, secure dashboard’s got you covered. 
           Move your customer support database away from scattered spreadsheets
           and paper files forever, centralise data at your fingertips.
       </p>
