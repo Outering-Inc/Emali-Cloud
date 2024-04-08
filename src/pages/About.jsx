@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
       <Security />
-      <h1>Happy Elloe</h1>
+      <h1>Happy Emali Cloud.</h1>
     </>
   );
 }
