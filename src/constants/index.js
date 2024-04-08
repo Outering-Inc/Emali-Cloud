@@ -62,10 +62,10 @@ export const links = [
         {icon:BiHeadphone,name:"Conversation Commerce Cloud",link:"/"},
         {icon:IoIosRocket,name:"Conversation X Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
         {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-        {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-        {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-        {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-        {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
+        {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
+        {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
+        {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
+        {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
       ],
     }, 
     {
@@ -87,7 +87,7 @@ export const links = [
       {icon:BiHeadphone,name:"Conversation Commerce Cloud",link:"/"},
       {icon:IoIosRocket,name:"Conversation X Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-      {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
+      {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
     ],
   }, 
   {
@@ -97,7 +97,7 @@ export const links = [
       {icon:BiHeadphone,name:"Conversation Commerce Cloud",link:"/"},
       {icon:IoIosRocket,name:"Conversation X Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-      {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
+      {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
     ],
   }, 
   {
@@ -119,7 +119,7 @@ export const links = [
       {icon:BiHeadphone,name:"Conversation Commerce Cloud",link:"/"},
       {icon:IoIosRocket,name:"Conversation X Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
-      {icon:IoIosRocket,name:"Conversation Elloe Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
+      {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
     ],
   },  
   {
@@ -357,7 +357,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+    name: "Aly Mtsumi",
     title: "Founder & Leader",
     img: people03,
   },
@@ -567,7 +567,7 @@ export const socialMedia = [
 export const extraFooterLinks = [
   {
     id: "licence-partner-1",
-    name:"emalicloud.co.ke", 
+    name:"emali.co.ke", 
     link: "https://www.odpc.go.ke/",
   },
   {
