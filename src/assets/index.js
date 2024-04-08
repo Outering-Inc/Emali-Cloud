@@ -6,6 +6,7 @@ import security from "./security.png";
 import analytics from "./analytics.png";
 import card from "./card.png";
 import logo1 from "./logo.svg";
+import emalicon from "./emalicon.svg";
 import logo from "./emali_logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
@@ -53,6 +54,7 @@ export {
   card,
   analytics,
   logo,
+  emalicon,
   quotes,
   robot,
   hero_right,
