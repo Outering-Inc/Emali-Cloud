@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className={`w-full flex mx-auto px-0 py-0 justify-between items-center  navbar bg-black w-[100%] m-auto ${styles.stickyNav}`}>
       <div className="z-50 p-2 md:w-auto w-full justify-between">
-      <img src={logo} alt="elloe-kenya" className=" md:cursor-pointer h-11" />
+      <img src={logo} alt="emali-cloud" className="md:cursor-pointer h-20 w-auto" />
       <div className="text-3xl md:hidden" onClick={()=>setOpen(!open) }>
       <ion-icon name={`${ open ? 'close' : 'menu'}`}></ion-icon>
       </div>

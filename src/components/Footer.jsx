@@ -9,11 +9,11 @@ const Footer = () => (
         <img
           src={logo}
           alt="Emali Inc"
-          className="w-[200px] h-[75.14px] object-contain"
+          className="w-[200px] h-[75.14px] object-contain md:cursor-pointer h-20 "
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
          Binded to the laws of land.Your data is safe with us.Our platform provides a reliable 
-         and highly secure environment for your valuable information.
+         and highly Secure environment for your valuable information.
         </p>
         <div className="flex flex-row md:mt-0 mt-6">
         {licencePartner.map((licence, index) => (
