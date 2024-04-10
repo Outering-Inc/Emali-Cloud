@@ -15,7 +15,7 @@ const Hero = () =>  (
         <div className="flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[60px] text-[20px] text-white ss:leading-[60px] leading-[15px]">
           Your Next Cloud Gen<br className="sm:block hidden"/> {" "}
-            <span className="text-orange-gradient">Power Business</span> {" "}
+            <span className="text-orange-gradient">Power Your Business</span> {" "}
         </h1>
         <div className="ss:flex hidden md:mr-4 mr-0">
           <GetStarted/>
