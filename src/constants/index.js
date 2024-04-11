@@ -523,14 +523,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Elloe-Fulfillment",
+    title: "Emali-Fulfillment",
     links: [
       {
         name: "Career",
         link: "https://www.elloe.ai/career/",
       },
       {
-        name: "Elloe Academy",
+        name: "Emali Academy",
         link: "https://www.elloe.ai/elloe-academy/",
       },
       {
