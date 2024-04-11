@@ -4,10 +4,15 @@
   base = "client" # Change "client" to the directory where your React app resides
 
   # Command to build your project
-  command = "npm run build" # Adjust this command based on your build setup
+  command = "npm ci && npm run build" # Use "npm ci" for a clean install before building
   
   # Directory to publish (relative to root of your repository)
   publish = "client/build" # Adjust this path to point to the build output directory
+
+  # Set environment variables for the build
+  environment = { 
+    NODE_ENV = "production" # Set NODE_ENV to "production" for optimized builds
+  }
 
 # Redirects setup
 [[redirects]]
@@ -16,3 +21,21 @@
   to = "/index.html"
   status = 200
 
+# Asset optimization and caching
+[[headers]]
+  # Cache policy for static assets
+  for = "/static/*"
+    [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable" # Set cache control headers for static assets
+  
+# Headers setup
+[[headers]]
+  # Set X-Frame-Options header to prevent Clickjacking attacks
+  for = "/*"
+    [headers.values]
+    X-Frame-Options = "DENY"
+  
+  # Set Content-Security-Policy header to mitigate XSS attacks
+  for = "/*"
+    [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://example.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://example.com;"
