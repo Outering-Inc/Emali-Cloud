@@ -2,7 +2,7 @@ import React from 'react'
 import styles from '../style';
 import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Testimonials, Hero, Analytics, Security, Support, Intergration, Action } from '../components';
 const LandingPage = () =>  (
-    <div className="bg-white w-full overflow-hidden w-[100%] m-auto">
+    <div className="bg-black w-full overflow-hidden w-[100%] m-auto">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Navbar />
