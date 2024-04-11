@@ -1,0 +1,18 @@
+# Build settings
+[build]
+  # Directory to change to before starting build
+  base = "client" # Change "client" to the directory where your React app resides
+
+  # Command to build your project
+  command = "npm run build" # Adjust this command based on your build setup
+  
+  # Directory to publish (relative to root of your repository)
+  publish = "client/build" # Adjust this path to point to the build output directory
+
+# Redirects setup
+[[redirects]]
+  # Redirect all requests to the root index.html
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
