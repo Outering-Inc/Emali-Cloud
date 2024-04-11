@@ -28,7 +28,7 @@
     [headers.values]
     Cache-Control = "public, max-age=31536000, immutable" # Set cache control headers for static assets
   
-# Headers setup
+# Headers setup Rule
 [[headers]]
   # Set X-Frame-Options header to prevent Clickjacking attacks
   for = "/*"
