@@ -33,7 +33,4 @@
   for = "/*"
     [headers.values]
     X-Frame-Options = "DENY"
-  
-  # Set Content-Security-Policy header to mitigate XSS attacks
-  [headers.values]
-  Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.emali.co.ke; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://example.com;"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.emali.co.ke; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://example.com;"
