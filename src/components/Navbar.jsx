@@ -13,7 +13,9 @@ const Navbar = () => {
       <div className="z-50 p-2 md:w-auto w-full justify-between">
         {/* Wrap logo in Link component */}
         <Link to="/" className="md:cursor-pointer">
-          <img src={logo} alt="emali-cloud" className="h-20 w-auto" />
+          <a href="/">
+            <img src={logo} alt="emali-cloud" className="h-20 w-auto" />
+          </a>
         </Link>
         <div className="text-3xl md:hidden" onClick={() => setOpen(!open)}>
           <ion-icon name={`${open ? 'close' : 'menu'}`}></ion-icon>
