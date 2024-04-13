@@ -1,8 +1,8 @@
 # Build settings
 [build]
   # Directory to change to before starting build
-  base = "client" # Change "client" to the directory where your React app resides
-
+  base = "/" # Change the base directory according to your project structure
+  
   # Command to build your project
   command = "npm ci && npm run build" # Use "npm ci" for a clean install before building
   
