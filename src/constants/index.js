@@ -349,7 +349,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+    name: "Hillary Oyaro",
     title: "Founder & Leader",
     img: people02,
   },
@@ -531,7 +531,7 @@ export const footerLinks = [
       },
       {
         name: "Emali Academy",
-        link: "https://www.elloe.ai/elloe-academy/",
+        link: "https://www.emali.co.ke/emali-academy/",
       },
       {
         name: "KnowledgeBase",
