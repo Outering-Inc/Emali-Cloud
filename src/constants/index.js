@@ -69,7 +69,7 @@ export const links = [
       ],
     }, 
     {
-      Head:"Elloe",
+      Head:"Emali",
       sublink:[
         {component:MegaDeal,name1:"Conversation Service Cloud",subname1:"Automate % Personalize Customer Support",link:"/"},
         {component:MegaBanner,name2:"Conversation Service Cloud",subname2:"Automate % Personalize Customer Support",link:"/"},
@@ -117,7 +117,7 @@ export const links = [
     sublink:[
       {img:people01,name:"Conversation Service Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:BiHeadphone,name:"Conversation Commerce Cloud",link:"/"},
-      {icon:IoIosRocket,name:"Conversation X Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
+      {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"},
       {icon:IoIosRocket,name:"Conversation Emali Cloud",subname:"Automate % Personalize Customer Support",link:"/"}
     ],
@@ -152,7 +152,7 @@ export const links = [
     ],
   },  
   {
-    Head:"Elloe",
+    Head:"Emali",
     sublink:[
       {component:MegaDeal,name1:"Conversation Service Cloud",subname1:"Automate % Personalize Customer Support",link:"/career"},
       {component:MegaBanner,name2:"Conversation Service Cloud",subname2:"Automate % Personalize Customer Support",link:"/career"},
@@ -527,7 +527,7 @@ export const footerLinks = [
     links: [
       {
         name: "Career",
-        link: "https://www.elloe.ai/career/",
+        link: "https://www.emali.co.ke/career/",
       },
       {
         name: "Emali Academy",
@@ -535,7 +535,7 @@ export const footerLinks = [
       },
       {
         name: "KnowledgeBase",
-        link: "https://www.elloe.ai/knowledge-base-center/",
+        link: "https://www.emali.co.ke/knowledge-base-center/",
       },
     ],
   },
